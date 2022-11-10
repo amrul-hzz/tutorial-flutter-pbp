@@ -261,7 +261,7 @@ class _MyFormPageState extends State<MyFormPage> {
                                                                         jenjangDiploma ? 'Diploma' :
                                                                         jenjangMagister? 'Magister' :
                                                                         jenjangDoktor  ? 'Doktor' :
-                                                                        ""
+                                                                        ''
                                                                     }'),
                                                                     Text('Umur: $umur'),
                                                                     Text('Kelas PBP: $kelasPBP'),
